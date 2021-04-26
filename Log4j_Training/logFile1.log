@@ -1,0 +1,14 @@
+2021-03-26 23:28:48 [DEBUG] Lab4Test:57 - Checking the function isNotZero()...
+2021-03-26 23:28:48 [DEBUG] Lab4Test:60 - Function isNotZero() has executed properly
+2021-03-26 23:28:48 [DEBUG] Lab4Test:67 - Checking the correctness of the structure of the lower triangular matrix implemented in TriangleMatrix class...
+2021-03-26 23:28:48 [DEBUG] Lab4Test:70 - The lower triangular matrix is correct
+2021-03-26 23:28:48 [DEBUG] Lab4Test:39 - Comparing expected and actual...
+2021-03-26 23:28:48 [DEBUG] Lab4Test:41 - expected and actual values has been compared
+2021-03-26 23:28:48 [DEBUG] Lab4Test:42 - Checking if it's null
+2021-03-26 23:28:48 [DEBUG] Lab4Test:44 - Null-checking has been executed
+2021-03-26 23:28:48 [DEBUG] Lab4Test:49 - Checking the function isLess()...
+2021-03-26 23:28:48 [DEBUG] Lab4Test:52 - Function IsLess() has executed properly
+2021-03-26 23:28:48 [WARN ] Lab4Test:30 - warn example
+2021-03-26 23:28:48 [ERROR] Lab4Test:31 - error example
+2021-03-26 23:28:48 [FATAL] Lab4Test:32 - fatal example
+2021-03-26 23:43:01 [INFO ] Lab4Test:33 - info example
